@@ -1,0 +1,12 @@
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.exe.config
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.exe
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.pdb
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.xml
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\Context Menu Editor.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu_Editor.Form1.resources
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu_Editor.Resources.resources
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\Context Menu Editor.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\Context Menu Editor.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.exe
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.xml
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.pdb

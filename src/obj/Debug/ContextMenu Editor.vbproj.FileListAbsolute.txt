@@ -1,0 +1,36 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\bin\Debug\ContextMenu Editot.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\bin\Debug\ContextMenu Editot.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\bin\Debug\ContextMenu Editot.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\bin\Debug\ContextMenu Editot.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu Editor.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu_Editot.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu_Editot.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu Editor.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu Editor.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu Editot.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu Editot.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editot\obj\Debug\ContextMenu Editot.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\bin\Debug\ContextMenu Editor.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\bin\Debug\ContextMenu Editor.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\bin\Debug\ContextMenu Editor.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\bin\Debug\ContextMenu Editor.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu Editor.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu_Editor.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu_Editor.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu Editor.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu Editor.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu Editor.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu Editor.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\ContextMenu Editor\obj\Debug\ContextMenu Editor.pdb
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.exe.config
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.exe
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.pdb
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\bin\Debug\ContextMenu Editor.xml
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu_Editor.Form1.resources
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu_Editor.Resources.resources
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.exe
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.xml
+D:\Source VBNet_C#\GitHub\Context-Menu-Editor\src\obj\Debug\ContextMenu Editor.pdb
